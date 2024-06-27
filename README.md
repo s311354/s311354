@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Shi-Rong (Louis) Liu, and I am a Senior Engineer. My engineering interests are mainly in the area of general computer science, and user-friendly software engineering. In my spare time, I dabble in tennis, leetcode and travels. 
+My name is ShiRong (Louis) Liu, and I am a Senior Engineer. My engineering interests are mainly in the area of general computer science, and user-friendly software engineering. In my spare time, I dabble in tennis, Leetcode, and travel. 
 
-I like to explore user-friendly utilities making life smoothly.
+I like to explore user-friendly utilities making life smooth.
 
 ## Language and Tools
 <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img alt="cpp" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> <img alt="python" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> <img alt="numpy" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
