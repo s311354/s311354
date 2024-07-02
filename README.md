@@ -14,17 +14,20 @@ I like to explore user-friendly utilities making life smooth.
 <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /> <img alt="neovim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" /> <img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img alt="docker" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <br>
 
-## Monkeytype Story
-
-<a href="https://monkeytype.com/profile/sheltonliu">
- <img src="https://raw.githubusercontent.com/s311354/monkeytype-readme/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
-
 ## Trophy
 
 #### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=s311354&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### Fortinet Badges
+<img alt="fortinet" width="120px" src="https://github.com/s311354/s311354/blob/main/images/introduction-to-the-threat-landscape-2-0.png" />
+
 #### Leetcode Badges
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=s041978)
 
+
+## Monkeytype Story
+
+<a href="https://monkeytype.com/profile/sheltonliu">
+ <img src="https://raw.githubusercontent.com/s311354/monkeytype-readme/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
