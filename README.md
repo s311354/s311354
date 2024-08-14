@@ -1,10 +1,24 @@
 ### Hi there 👋
 
+<img align="right" src="https://github.com/s311354/s311354/blob/main/images/developer.gif" alt="Coder GIF" width="420" height="330">
+
+<br>
+<br>
+
 My name is ShiRong (Louis) Liu, and I am a Senior Engineer. My engineering interests are mainly in the area of general computer science, and user-friendly software engineering. In my spare time, I dabble in tennis, Leetcode, and travel. 
 
 I like to explore user-friendly utilities making life smooth.
 
-## Language and Tools
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+### Language and Tools
 <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img alt="cpp" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> <img alt="python" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> <img alt="numpy" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br>
 
@@ -14,7 +28,7 @@ I like to explore user-friendly utilities making life smooth.
 <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /> <img alt="neovim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" /> <img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img alt="docker" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <br>
 
-## Trophy
+### Trophy
 
 #### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=s311354&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
