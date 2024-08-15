@@ -5,9 +5,9 @@
 <br>
 <br>
 
-My name is ShiRong (Louis) Liu, and I am a Senior Engineer. My engineering interests are mainly in the area of general computer science, and user-friendly software engineering. In my spare time, I dabble in tennis, Leetcode, and travel. 
+My name is ShiRong (Louis) Liu, and I am a Senior Engineer. My engineering interests primarily lie in the areas of general computer science, and user-friendly software engineering. In my spare time, I enjoy playing tennis, solving Leetcode problems, and traveling.
 
-I like to explore user-friendly utilities making life smooth.
+I like to explore user-friendly utilities that make life smoother.
 
 <br>
 <br>
