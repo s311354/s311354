@@ -42,8 +42,4 @@ I like to explore user-friendly utilities that make life smoother.
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=s041978)
 
 
-## Monkeytype Story
-
-<a href="https://monkeytype.com/profile/sheltonliu">
- <img src="https://raw.githubusercontent.com/s311354/monkeytype-readme/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
+<a href="https://stackoverflow.com/users/10778476/shelton-liu"><img src="https://stackoverflow.com/users/flair/10778476.png" width="208" height="58" alt="profile for Shelton Liu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shelton Liu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
