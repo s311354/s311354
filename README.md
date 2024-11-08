@@ -40,6 +40,3 @@ I like to explore user-friendly utilities that make life smoother.
 
 #### Leetcode Badges
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=s041978)
-
-
-<a href="https://stackoverflow.com/users/10778476/shelton-liu"><img src="https://stackoverflow.com/users/flair/10778476.png" width="208" height="58" alt="profile for Shelton Liu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shelton Liu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
