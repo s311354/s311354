@@ -1,18 +1,21 @@
-### Hi there 👋
+### 👨‍💻   Hire Me :
 
 <img align="right" src="https://github.com/s311354/s311354/blob/main/images/developer.gif" alt="Coder GIF" width="420" height="330">
 
-<br>
-<br>
 
+- 🔭 I'm working as a Embedded/Firmware/Software Engineer with 4+ years of experience.
+- 🌱 Exploring Technical Content Writing, [view my projects](https://stackoverflow.com/users/10778476/shelton-liu).
+- 📖 I love reading books, especially Math and Physics books.
+- 💼 I'm currently available for hire or open to new job opportunities.
+- 📫 Contact me: <a target="_blank"
+href="mailto:s041978@hotmail.com"><img
+src="https://img.shields.io/badge/-Hotmail-D14836?style=for-the-badge&logo=Hotmail&logoColor=white"></img></a>
+
+<br>
+<br>
 My name is ShiRong (Louis) Liu, and I am a Senior Engineer. My engineering interests primarily lie in the areas of general computer science, and user-friendly software engineering. In my spare time, I enjoy playing tennis, solving Leetcode problems, and traveling.
 
 I like to explore user-friendly utilities that make life smoother.
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
