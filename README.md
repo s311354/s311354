@@ -30,10 +30,5 @@ src="https://img.shields.io/badge/-Hotmail-D14836?style=for-the-badge&logo=Hotma
 #### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=s311354&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### Badges
-<img alt="ibmcybersecurity" width="120px" src="https://github.com/s311354/s311354/blob/main/images/ibm_cybersecurity-fundamentals.png" /> <img alt="ciscocybersecurity" width="120px" src="https://github.com/s311354/s311354/blob/main/images/cisco_introduction-to-cybersecurity.png" />
-<img alt="fortinetthread" width="120px" src="https://github.com/s311354/s311354/blob/main/images/introduction-to-the-threat-landscape-2-0.png" />  <img alt="fortinetcybersecurity" width="120px" src="https://github.com/s311354/s311354/blob/main/images/fortinet-certified-fundamentals-cybersecurity.png" />
-
-
 #### Leetcode Badges
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=s041978)
