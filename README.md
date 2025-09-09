@@ -1,6 +1,6 @@
 ### 👨‍💻   Hire Me :
 
-My name is ShiRong (Louis) Liu, and I am a senior engineer and a non-native English speaker. My engineering interests primarily lie in the areas of general computer science, and user-friendly software engineering. In my spare time, I enjoy playing tennis, solving Leetcode problems, and traveling.
+My name is ShiRong Liu, and I am a senior engineer and a non-native English speaker. My engineering interests primarily lie in the areas of general computer science, and user-friendly software engineering. In my spare time, I enjoy playing tennis, solving Leetcode problems, and traveling.
 
 I like to explore user-friendly utilities that make life smoother.
 
