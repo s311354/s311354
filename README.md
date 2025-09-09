@@ -29,6 +29,3 @@ src="https://img.shields.io/badge/-Hotmail-D14836?style=for-the-badge&logo=Hotma
 
 #### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=s311354&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Leetcode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=s041978)
