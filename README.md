@@ -7,7 +7,7 @@ My name is ShiRong Liu, and I am a senior engineer with experience in ASIC verif
 - 📖 I love reading books, especially Math and Physics books.
 - 💼 I'm currently available for hire or open to new job opportunities.
 - 📫 Contact me: <a target="_blank"
-href="mailto:s041978@hotmail.com"><img
+href="mailto:sheltonliu.work@hotmail.com"><img
 src="https://img.shields.io/badge/-Hotmail-D14836?style=for-the-badge&logo=Hotmail&logoColor=white"></img></a>
 
 
